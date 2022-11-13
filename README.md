@@ -1,5 +1,7 @@
 # Practica-1-Entornos-de-desarrollo
 
+## GitHub
+
 Creamos el repositorio con git init en la carpeta que queramos. 
 
 Continuamos añadiendo el archivo que queremos, en mi caso ha sido "prueba.txt" 
